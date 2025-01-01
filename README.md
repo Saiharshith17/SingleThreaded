@@ -4,6 +4,7 @@ This repository demonstrates the implementation of various server-client communi
 
 ## Directory Structure
 Directory structure:
+```plaintext
 Saiharshith17-SingleThreaded/
 ├── SingleThread/
 │   ├── Server.java # Single-threaded server implementation
@@ -13,6 +14,7 @@ Saiharshith17-SingleThreaded/
 └── MultiThreaded/
     ├── Server.java # Multi-threaded server implementation
     └── Client.java # Client for multi-threaded server
+
 
 
 ## Description of Models
