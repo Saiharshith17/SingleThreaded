@@ -4,7 +4,15 @@ This repository demonstrates the implementation of various server-client communi
 
 ## Directory Structure
 Directory structure:
-Saiharshith17-SingleThreaded/ ├── SingleThread/ │ ├── Server.java # Single-threaded server implementation │ └── Client.java # Client for single-threaded server ├── ThreadPool/ │ └── Server.java # Server implementation using a thread pool └── MultiThreaded/ ├── Server.java # Multi-threaded server implementation └── Client.java #
+Saiharshith17-SingleThreaded/
+├── SingleThread/
+│   ├── Server.java    # Single-threaded server implementation
+│   └── Client.java    # Client for single-threaded server
+├── ThreadPool/
+│   └── Server.java    # Server implementation using a thread pool
+└── MultiThreaded/
+    ├── Server.java    # Multi-threaded server implementation
+    └── Client.java    # Client for multi-threaded server
 
 
 ## Description of Models
