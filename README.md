@@ -14,10 +14,10 @@ Saiharshith17-SingleThreaded/
 └── MultiThreaded/
     ├── Server.java # Multi-threaded server implementation
     └── Client.java # Client for multi-threaded server
+```
 
 
-
-## Description of Models
+### Description of Models
 1. **Single-Threaded Server**:
    - Handles one client at a time.
    - Simple to implement but inefficient for multiple clients as requests are processed sequentially.
