@@ -1,6 +1,6 @@
 package MultiThreaded;
 
-// this is 3 way handshaking method
+
 import java.io.PrintWriter;
 import java.net.InetAddress;
 import java.net.Socket;
