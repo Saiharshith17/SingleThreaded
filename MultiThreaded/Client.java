@@ -29,6 +29,7 @@ public class Client {
                         String line = fromSocket.readLine();
                         System.out.println("Response from server: " + line);
                     } catch (IOException e) {
+                        
                         e.printStackTrace();
                     } finally {
                         socket.close();  // Ensure the socket is closed after usage
